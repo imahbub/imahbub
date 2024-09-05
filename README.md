@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @imahbub
-- 👀 I’m interested in Linux, Docker and other FOSS projects
+- 💼 Professionally Designer (UI/UX, Visual)
+- 👀 I’m interested in Linux, Docker, and other FOSS projects
 - 🌱 I’m currently learning Docker, JS and PHP
 - 📫 Email me - mail@imahbub.com 
 - 🌐 My homepage https://imahbub.com
