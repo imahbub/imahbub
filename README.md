@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imahbub
-- 💼 Professionally Designer (UI/UX, Visual)
+- 💼 Professionally Designer (UI/UX, Engineer)
 - 👀 I’m interested in Linux, Docker, and other FOSS projects
 - 🌱 I’m currently learning Docker, JS, Python, Swift
 - 📫 Email me - mail@imahbub.com 
